@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function Earning() {
+export default function Earnings() {
   return <div></div>;
 }
