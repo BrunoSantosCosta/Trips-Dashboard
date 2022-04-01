@@ -8,12 +8,12 @@ export default function Navbar() {
       <div className="title">
         <h4>Olá, Bruno</h4>
         <h1>
-          Bem vindo ao dashboard <span> My Trips </span>
+          Bem vindo ao<span>Trips</span> dashboard
         </h1>
       </div>
       <div className="search">
         <BiSearch />
-        <input type="text" placeholder="Search"/>
+        <input type="text" placeholder="Pesquisar"/>
       </div>
     </Nav>
   );
@@ -51,7 +51,7 @@ const Nav = styled.nav`
       font-family: "Permanent Marker", cursive;
       letter-spacing: 0.3rem;
       &::placeholder {
-        color: #04BFAD;
+        color: #000000;
         font-weight: 600;
       }
       &:focus {

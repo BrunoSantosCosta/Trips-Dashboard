@@ -62,10 +62,10 @@ const Section = styled.section`
     gap: 1rem;
     transition: 0.5s ease-in-out;
     &:hover {
-      background-color: #ffc107;
-      color: black;
+      background-color: #04BFAD;
+      color: #FFFFFF;
       svg {
-        color: white;
+        color: #FFFFFF;
       }
     }
     .logo {
@@ -77,6 +77,7 @@ const Section = styled.section`
       padding: 1.5rem;
       svg {
         font-size: 1.5rem;
+        color: #FFFFFF;
       }
     }
   }

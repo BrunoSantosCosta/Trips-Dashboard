@@ -21,7 +21,7 @@ export default function Sidebar() {
         <div className="top">
           <div className="brand">
             <FaTaxi />
-            <span>MY TRIPS</span>
+            <span>TRIPS</span>
           </div>
           <div className="toggle"></div>
           <div className="links">
