@@ -32,7 +32,7 @@ export default function Sidebar() {
               >
                 <a href="#">
                   <MdSpaceDashboard />
-                  <span> Dashboard</span>
+                  <span>Dashboard</span>
                 </a>
               </li>
               <li
@@ -41,7 +41,7 @@ export default function Sidebar() {
               >
                 <a href="#">
                   <RiDashboard2Fill />
-                  <span> Riders</span>
+                  <span>Corridas</span>
                 </a>
               </li>
               <li
@@ -50,7 +50,7 @@ export default function Sidebar() {
               >
                 <a href="#">
                   <FaAddressCard />
-                  <span> Payment Details</span>
+                  <span>Detalhes de Pagamento</span>
                 </a>
               </li>
               <li
@@ -59,7 +59,7 @@ export default function Sidebar() {
               >
                 <a href="#">
                   <GiTwirlCenter />
-                  <span> Learning Center</span>
+                  <span>Como Usar</span>
                 </a>
               </li>
               <li
@@ -77,7 +77,7 @@ export default function Sidebar() {
               >
                 <a href="#">
                   <IoSettings />
-                  <span> Settings</span>
+                  <span>Configurações</span>
                 </a>
               </li>
             </ul>
@@ -86,7 +86,7 @@ export default function Sidebar() {
         <div className="logout">
           <a href="#">
             <FiLogOut />
-            <span className="logout">Logout</span>
+            <span className="logout">Sair</span>
           </a>
         </div>
       </Section>
