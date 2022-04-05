@@ -34,9 +34,9 @@ export default function Transfers() {
     </div>
     <div className="transactions">
       {
-        transactions.map((transaction) => {
+        transactions.map((transaction, index) => {
           return (
-            <div className="transaction">
+            <div className="transaction" key={index}>
               <div className="transaction__title">
                 <div className="transaction__title__image">
                   <img src={transaction.image} alt="" />
