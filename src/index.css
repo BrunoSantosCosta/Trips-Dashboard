@@ -11,3 +11,17 @@ body {
   background-color: #172026;
 }
 
+::-webkit-scrollbar {
+  background-color: #172026;
+  width: 0.4vw;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #04BFAD;
+}
+
+.show {
+  opacity: 1 !important;
+  visibility: visible !important;
+  right: 0 !important;
+}
