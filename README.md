@@ -1,3 +1,18 @@
+<h4> 
+🚀 Status do Projeto:  Concluido  :white_check_mark:
+</h4>
+![Uploading image.png…]()
+
+# Trips Dashboard
+
+<p align="center">Projeto de um dashboard de corridas de motoristas de aplicativos como Uber e 99pop</p>
+
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
