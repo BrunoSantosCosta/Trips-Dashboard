@@ -1,5 +1,6 @@
 <h4> 
-🚀 Status do Projeto: Concluido  :white_check_mark:
+🚀 
+  Project status: Concluded  :white_check_mark:
 </h4>
 <table>
   <tr>
@@ -17,36 +18,36 @@
 
 <h1 align="center"> # Trips Dashboard</h1>
 
-<p align="center">Projeto reponsivo para controle de viagens usado por motoristas de apps como Uber</p>
+<p align="center">Project responsive for control trips used per drivers in apps as uber</p>
 
-<h1 align="center"> # Pré-requisitos e como rodar a aplicação</h1>
+<h1 align="center"> # Prerequisites and how to run the application</h1>
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [NPM](https://www.npmjs.com/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Before starting, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/). 
+Besides, it's good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-<h1 align="center"> # Rodando o Back End (servidor)</h1>
+<h1 align="center"> # Running the Back End (servidor)</h1>
 
-<h3> 1- Clone este repositório </h3>
+<h3> 1- Clone this repository </h3>
 $ git clone <https://github.com/BrunoSantosCosta/Trips-Dashboard>
 
-<h3> 2- Acesse a pasta do projeto no terminal/cmd</h3>
+<h3> 2- Access the project folder in the terminal/cmd</h3>
 $ cd Trips-Dashboard
 
-<h3> 3- Instale as dependências</h3>
+<h3> 3- Install the dependencies</h3>
 $ npm install
 
-<h3> 4- Execute a aplicação em modo de desenvolvimento</h3>
+<h3> 4- Run the application in development mode</h3>
 $ npm start
 
-<h3> 5- O servidor inciará na porta:3000 - acesse <http://localhost:3000> </h3>
-Sucesso!! :grimacing:	
+<h3> 5- The server will start at porta:3000 - access <http://localhost:3000> </h3>
+Success!! :grimacing:	
   
 
   
   
-<h1 align="center"> 🛠 Tecnologias utilizadas</h1>
-As seguintes ferramentas foram usadas na construção do projeto:
+<h1 align="center"> 🛠 Technologies used</h1>
+The following tools were used in building the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
